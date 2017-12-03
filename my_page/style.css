@@ -1,0 +1,75 @@
+body {
+    margin:0;
+    background: linear-gradient(90deg, #670667 6%, #7a367a 51%, #a56685 75%,#a56588 5%);
+    height: 100%;
+}
+
+.img {
+    align-items : center;
+    margin: 0 0 0 0 ;
+}
+.frame {
+    border: 5px solid #DDA0DD;
+    width: 280px;
+    height: 280px;
+    float: left;
+    margin: 25px 150px 30px 25px;
+
+}
+
+.inf {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.data {
+    font-style: italic;
+    font-size: 17px;
+}
+ .name {
+    font-family:'Times New Roman',Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.main-title{
+    font-family:'Times New Roman',Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    color:MidnightBlue ;
+}
+.p {
+    text-indent:30px;
+}
+
+.course-float {
+    float: left;
+    font-size: 17px;
+}
+
+.is-expanded {
+    float: left;
+
+}
+
+.el-hidden {
+    display: none;
+
+}
+
+.el-shown {
+    display: block;
+}
+
+#course-root div{
+    display: inline;
+    color: Navy;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:bold;
+    font-style: italic;
+    margin: 0 5px;
+}
+
